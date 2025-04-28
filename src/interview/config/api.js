@@ -1,0 +1,1 @@
+export const USERS_POSTS = '/posts';

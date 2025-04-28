@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "name": "Public",
+    "isFolder": true,
+    "children": [
+      {
+        "id": 5,
+        "name": "index.html",
+        "isFolder": false,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "src",
+    "isFolder": true,
+    "children": [
+      {
+        "id": 6,
+        "name": "App.tsx",
+        "isFolder": false,
+        "children": []
+      },
+      {
+        "id": 7,
+        "name": "index.tsx",
+        "isFolder": false,
+        "children": []
+      },
+      {
+        "id": 8,
+        "name": "styles.css",
+        "isFolder": false,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "package.json",
+    "isFolder": false,
+    "children": []
+  },
+  {
+    "id": 4,
+    "name": "tsconfig.json",
+    "isFolder": false,
+    "children": []
+  }
+]
